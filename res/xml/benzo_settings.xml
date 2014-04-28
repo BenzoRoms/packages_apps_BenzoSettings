@@ -27,6 +27,14 @@
             android:layout="@layout/preference_benzoextra_animations"
             />
 
+        <!-- App sidebar -->
+        <Preference
+            android:key="app_sidebar"
+            android:fragment="com.benzo.settings.AppSidebar"
+            android:title="@string/app_sidebar_title"
+            android:layout="@layout/preference_benzoextra_appbar" 
+            />
+
         <!-- Battery LED -->
         <Preference
 	    android:key="charging_light"
