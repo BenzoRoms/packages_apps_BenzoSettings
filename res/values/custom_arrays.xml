@@ -14,14 +14,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<PreferenceScreen
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-    android:title="@string/button_settings_title" >
+<resources>
 
-    <Preference
-        android:key="power_menu"
-        android:title="@string/power_menu_title"
-        android:fragment="com.benzo.settings.PowerMenuActions" />
+    <!-- Power Menu -->
+    <string-array name="power_menu_actions_array" translatable="false">
+        <item>power</item>
+        <item>reboot</item>
+        <item>screenshot</item>
+        <item>airplane</item>
+        <item>users</item>
+        <item>bugreport</item>
+    </string-array>
 
-</PreferenceScreen>
+</resources>
