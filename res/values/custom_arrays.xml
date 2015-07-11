@@ -778,4 +778,14 @@
         <item>@string/daylight_header_provider</item>
         <item>@string/static_header_provider</item>
     </string-array>
+
+    <!-- Volume step options. -->
+    <string-array name="volume_steps_entries" translatable="false">
+        <item>60</item>
+        <item>45</item>
+        <item>30</item>
+        <item>15</item>
+        <item>7</item>
+        <item>5</item>
+    </string-array>
 </resources>
