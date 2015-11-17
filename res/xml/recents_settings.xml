@@ -70,4 +70,14 @@
             android:entryValues="@array/immersive_recents_values"
             android:persistent="false" />
 
+     <PreferenceCategory
+         android:key="omni_recents_panel"
+         android:title="@string/omniswitch_category" />
+
+        <PreferenceScreen
+            android:key="omniswitch"
+            android:id="@+id/omniswitch"
+            android:title="@string/omniswitch_settings_title"
+            android:fragment="com.benzo.settings.OmniSwitch" />
+
 </PreferenceScreen>
