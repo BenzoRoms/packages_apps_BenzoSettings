@@ -61,6 +61,8 @@
     <string name="lockscreen_enable_power_menu_title">Show power menu lock screen</string>
     <string name="lockscreen_enable_power_menu_summary">This option will only disable the power menu on secure lock screens</string>
 
+    <!-- Volume keys -->
+    <string name="vol_buttons_category_title">Volume buttons</string>
     <!-- Volume key cursor control -->
     <string name="hardware_keys_volume_keys_title">Volume buttons</string>
     <string name="volbtn_cursor_control_title">Keyboard cursor control</string>
@@ -70,6 +72,9 @@
     <!-- Volume rocker music control -->
     <string name="volume_rocker_music_controls_title">Playback control</string>
     <string name="volume_rocker_music_controls_summary">When the screen is off, long-pressing the volume keys will seek music tracks</string>
+    <!-- Volume rocker music control -->	
+    <string name="swap_volume_buttons_title">Reorient</string>
+    <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
 
     <!-- Recents panel settings -->
     <string name="clearall_recents_category">Clear all button</string>
