@@ -153,4 +153,8 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
+    <!-- Brightness icon-->
+    <string name="brightness_icon_title">Brightness icon </string>
+    <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
+
 </resources>
