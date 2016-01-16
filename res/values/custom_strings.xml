@@ -710,4 +710,8 @@
     <string name="qs_style_dark_title">Dark SystemUI style</string>
     <string name="qs_style_dark_summary">Change QS panel and volume panel to a dark color. Restarts SystemUI</string>
 
+    <!-- Fingerprint vibrate -->
+    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
+    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+
 </resources>
