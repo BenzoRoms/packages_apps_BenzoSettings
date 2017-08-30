@@ -40,8 +40,7 @@
         android:title="@string/weather_cat_settings_title"/>
 
         <Preference
-           android:title="@string/weather_config_title"
-           android:dependency="lock_screen_show_weather" >
+           android:title="@string/weather_config_title">
            <intent android:action="android.intent.action.MAIN"
                    android:targetPackage="org.omnirom.omnijaws"
                    android:targetClass="org.omnirom.omnijaws.SettingsActivity" />
