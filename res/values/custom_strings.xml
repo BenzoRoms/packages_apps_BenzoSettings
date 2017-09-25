@@ -39,6 +39,7 @@
     <string name="lockscreen_settings_benzo_title">Lockscreen</string>
     <string name="notifications_settings_benzo_title">Notifications</string>
     <string name="keyboard_ime_title">Keyboard and IME</string>
+    <string name="app_ops_settings_title">App Ops</string>
 
     <!-- Power menu -->
     <string name="power_menu_title">Power menu</string>
