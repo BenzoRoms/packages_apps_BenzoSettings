@@ -744,4 +744,10 @@
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
 
+    <!-- Statusbar ticker -->
+    <string name="ticker_mode_title">Notification ticker</string>
+    <string name="ticker_disabled">Disabled</string>
+    <string name="ticker_enabled">Enabled</string>
+    <string name="ticker_media_enabled">Notification and music ticker</string>
+
 </resources>
